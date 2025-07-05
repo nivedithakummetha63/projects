@@ -49,6 +49,9 @@ Built with Flask, IBM Granite models, and Hugging Face Transformers, it delivers
 ---
 
 ## 📸 Demo Screenshots
+![1](Picture1.png)
+![2](Picture2.png)
+![3](Picture3.png)
 
 ## ▶️ Demo Video
 
